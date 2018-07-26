@@ -1,0 +1,103 @@
+.app {
+	background: #d8dfea;
+	min-height: 616px;
+}
+
+.css-10nd86i {
+	margin: 10px 0 20px 175px;
+	width: 500px;
+}
+
+.css-1sontr1 {
+	margin: 10px 0 20px 175px;
+	width: 500px;
+}
+
+.broadcast-chkbox {
+	margin: 22px 0 20px 19px;
+}
+
+.broadcast-label {
+	margin: 18px 0 0 10px;
+}
+
+input[type=checkbox] {
+  transform: scale(1.5);
+}
+
+.text {
+	height: 150px;
+	max-height: 211px;
+	margin: 10px 0 20px 175px;
+	width: 500px;
+}
+
+.box-upload {
+	position: absolute;
+	padding: 65px;
+    border: 3px dashed #d3d3d3;
+    border-radius: 2px;
+	margin: 10px 0 20px 10px;
+}
+
+.preview-cont{
+	width:45%;
+	float:right;
+}
+.preview {
+	display: inline-block;
+	padding: 5px;
+    border: 2px dashed #d3d3d3;
+    border-radius: 2px;
+	margin: 10px 0 20px 0px;
+}
+
+.save-btn {
+	margin-top: -241px;
+	position: absolute;
+    right: 201px;
+	padding: 10px 27px;
+}
+
+.remove-btn {
+	display: block;
+	margin-left: 281px;
+    padding: 10px 20px
+}
+
+.recipients {
+	display: inline-flex;
+}
+
+.facebook-banner {
+	background: #3b5998;
+	max-height: 40px;
+	margin-bottom: 63px;
+}
+
+.logo {
+	height: 30px;
+    width: 30px;
+    margin: 5px 0 15px 10px;
+}
+
+.video {
+	max-width: 400px;
+	max-height: 400px;
+}
+.dragLBELCont {
+	position: absolute;
+	left: 690px;
+    top: 0px;
+    width: 100%;
+}
+
+.dragLBEL{
+	position: absolute;
+    top: 46px;
+    left: 150px;
+}    
+
+.msg-cont{
+	position: relative;
+}
