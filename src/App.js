@@ -67,6 +67,7 @@ class App extends React.Component {
 		  <div className={'app'}>
 			<div className={'facebook-banner'}>
 				<img className={'logo'} src={facebookLogo}/>
+			Vachak 
 			</div>
 			<Recipient options={recipients} setSelectedRecipient={this.setSelectedRecipient} setBrodcast={this.setBrodcast}/>
 			<Message setTextMessage={this.setTextMessage}/>
